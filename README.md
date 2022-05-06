@@ -4,6 +4,8 @@
 
 ### Purpose
 
+The purpose of this report is to demonstrate the campaign outcomes based on launch date and goals.
+
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
