@@ -1,4 +1,4 @@
-# Kickstarting with Excel
+# Outcomes Analysis Based on Launch Date and Goals
 
 ## Overview of Project
 
