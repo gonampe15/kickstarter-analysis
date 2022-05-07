@@ -20,14 +20,15 @@ These are the results we get based on the Outcomes and Goals ranges.
 
 ### Challenges and Difficulties Encountered
 
-
+A challenge/difficulty I experienced was using a new formula, in this case it was COUNTIFS(). The way I overcame this challenge was by doing some research on the web and played with a few examples. 
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+Based on the Analysis of Outcomes Based on Launch Date, here are two of my conclusions: 
+My first conclusion is May and June would be good months to launch a campaign since they had the most successful outcomes. 
+My second conclusion is to avoid launching a Theater campaing on the last three months of the year, specially December since the sum of failed and canceled campaigns is higher than the successful.
 
-- What can you conclude about the Outcomes based on Goals?
+Based on the Analysis of Outcomes Based on Goal, I drew that conclusion that campaigns with funding goals less than $10,000 had the most successful percentages results specially if we also look at the total number of projects.
 
-- What are some limitations of this dataset?
+Using the Analysis of Outcomes Based on Goal dataset, we could create a Stacked Column chart that includes the number of successful, failed, canceled and the total projects
 
-- What are some other possible tables and/or graphs that we could create?
