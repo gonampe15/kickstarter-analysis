@@ -10,6 +10,9 @@ The purpose of this report is to demonstrate the campaign outcomes based on laun
 
 ### Analysis of Outcomes Based on Launch Date
 
+Based on our data collection, these are the results we get when we look at the Theater category.
+[Theater Outcomes Based on Launch Date](resources/Theater_Outcomes_vs_Launch.png)
+
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
